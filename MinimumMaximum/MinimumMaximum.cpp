@@ -4,7 +4,6 @@
 #include <vector>
 #include <algorithm>
 #include <string>
-#include <conio.h>
 
 
 int main()
